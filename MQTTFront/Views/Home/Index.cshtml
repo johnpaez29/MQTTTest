@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <form asp-controller="Home" asp-action="ProcessMessage" method="post">
+        <label for="select">Elija el cliente</label>
+        <select name="queu" id="queu">
+            <option value="queu1">Cliente1</option>
+            <option value="queu2">Cliente2</option>
+        </select>
+        <label for="text">Agregue el texto deseado </label>
+        <input type="text" name="text" id="text">
+        <input type="submit">
+    </form>
+</div>

@@ -45,3 +45,243 @@
 2021-08-04 20:13:39.955 -05:00 [INF] Message: ClientId = anonymous79a93d4142, Topic = eebus/daenet/command, Payload = "p", QoS = "ExactlyOnce", Retain-Flag = false
 2021-08-04 20:13:44.674 -05:00 [INF] Message: ClientId = anonymous16292d49d3, Topic = eebus/daenet/command, Payload = "fdf", QoS = "ExactlyOnce", Retain-Flag = false
 2021-08-04 20:13:51.833 -05:00 [INF] Message: ClientId = anonymous16292d49d3, Topic = eebus/daenet/command, Payload = "dsd", QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 21:29:22.943 -05:00 [INF] New connection: ClientId = anonymousd5584bea62, Endpoint = [::1]:57236, Username = null, CleanSession = true
+2021-08-04 21:29:23.195 -05:00 [INF] New subscription: ClientId = anonymousd5584bea62, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=ExactlyOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 21:29:26.160 -05:00 [INF] New connection: ClientId = anonymousdf831b484d, Endpoint = [::1]:57237, Username = null, CleanSession = true
+2021-08-04 21:29:26.253 -05:00 [INF] New subscription: ClientId = anonymousdf831b484d, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=ExactlyOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 21:29:39.235 -05:00 [INF] New connection: ClientId = anonymous435c6f1a3c, Endpoint = [::1]:62659, Username = null, CleanSession = true
+2021-08-04 21:29:39.243 -05:00 [INF] New subscription: ClientId = anonymous435c6f1a3c, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=ExactlyOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 21:29:39.684 -05:00 [INF] Message: ClientId = anonymous435c6f1a3c, Topic = eebus/daenet/command, Payload = {"Topic":null,"Text":"hfhgfhgf"}, QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 21:30:01.568 -05:00 [INF] New connection: ClientId = anonymousfb036f6156, Endpoint = [::1]:52388, Username = null, CleanSession = true
+2021-08-04 21:30:01.574 -05:00 [INF] New subscription: ClientId = anonymousfb036f6156, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=ExactlyOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 21:30:01.587 -05:00 [INF] Message: ClientId = anonymousfb036f6156, Topic = eebus/daenet/command, Payload = {"Topic":null,"Text":"fhfhfhg"}, QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 21:31:43.159 -05:00 [INF] New connection: ClientId = anonymousf053cdf427, Endpoint = [::1]:50532, Username = null, CleanSession = true
+2021-08-04 21:31:43.391 -05:00 [INF] New subscription: ClientId = anonymousf053cdf427, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=ExactlyOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 21:32:29.379 -05:00 [INF] New connection: ClientId = anonymous0c414d7bd1, Endpoint = [::1]:60851, Username = null, CleanSession = true
+2021-08-04 21:32:29.600 -05:00 [INF] New subscription: ClientId = anonymous0c414d7bd1, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=ExactlyOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 21:32:30.778 -05:00 [INF] New connection: ClientId = anonymous3b20ff433e, Endpoint = [::1]:60852, Username = null, CleanSession = true
+2021-08-04 21:32:30.869 -05:00 [INF] New subscription: ClientId = anonymous3b20ff433e, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=ExactlyOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 21:32:38.991 -05:00 [INF] New connection: ClientId = anonymous1c184ddf57, Endpoint = [::1]:53969, Username = null, CleanSession = true
+2021-08-04 21:32:39.000 -05:00 [INF] New subscription: ClientId = anonymous1c184ddf57, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=ExactlyOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 21:32:39.363 -05:00 [INF] Message: ClientId = anonymous1c184ddf57, Topic = eebus/daenet/command, Payload = {"Topic":null,"Text":"hjjkhjkh"}, QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 21:32:43.476 -05:00 [INF] New connection: ClientId = anonymous55ffb52f67, Endpoint = [::1]:62105, Username = null, CleanSession = true
+2021-08-04 21:32:43.484 -05:00 [INF] New subscription: ClientId = anonymous55ffb52f67, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=ExactlyOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 21:32:43.491 -05:00 [INF] Message: ClientId = anonymous55ffb52f67, Topic = eebus/daenet/command, Payload = {"Topic":null,"Text":"jkhkjhkjhkjh"}, QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 21:32:57.184 -05:00 [INF] New connection: ClientId = anonymousdb39462cf1, Endpoint = [::1]:50501, Username = null, CleanSession = true
+2021-08-04 21:32:57.193 -05:00 [INF] New subscription: ClientId = anonymousdb39462cf1, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=ExactlyOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 21:32:57.211 -05:00 [INF] Message: ClientId = anonymousdb39462cf1, Topic = eebus/daenet/command, Payload = {"Topic":null,"Text":"hhhhhhhhhhhhhhhhjjh"}, QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 21:35:13.527 -05:00 [INF] New connection: ClientId = anonymous62a23a90ca, Endpoint = [::1]:54014, Username = null, CleanSession = true
+2021-08-04 21:35:13.732 -05:00 [INF] New subscription: ClientId = anonymous62a23a90ca, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=ExactlyOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 21:35:16.747 -05:00 [INF] New connection: ClientId = anonymous1ff735c3cb, Endpoint = [::1]:54015, Username = null, CleanSession = true
+2021-08-04 21:35:16.816 -05:00 [INF] New subscription: ClientId = anonymous1ff735c3cb, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=ExactlyOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 21:35:22.950 -05:00 [INF] New connection: ClientId = anonymous58759a704b, Endpoint = [::1]:62313, Username = null, CleanSession = true
+2021-08-04 21:35:22.968 -05:00 [INF] New subscription: ClientId = anonymous58759a704b, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=ExactlyOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 21:35:23.389 -05:00 [INF] Message: ClientId = anonymous58759a704b, Topic = eebus/daenet/command, Payload = {"Topic":null,"Text":"jljlkjlkj"}, QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 21:35:35.253 -05:00 [INF] New connection: ClientId = anonymous7fcbfb7f3c, Endpoint = [::1]:60195, Username = null, CleanSession = true
+2021-08-04 21:35:35.261 -05:00 [INF] New subscription: ClientId = anonymous7fcbfb7f3c, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=ExactlyOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 21:35:35.267 -05:00 [INF] Message: ClientId = anonymous7fcbfb7f3c, Topic = eebus/daenet/command, Payload = {"Topic":null,"Text":"jkljlkjlkjlkjlk"}, QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 21:35:51.134 -05:00 [INF] New connection: ClientId = anonymous3f4e7f714e, Endpoint = [::1]:49496, Username = null, CleanSession = true
+2021-08-04 21:35:51.141 -05:00 [INF] New subscription: ClientId = anonymous3f4e7f714e, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=ExactlyOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 21:35:51.148 -05:00 [INF] Message: ClientId = anonymous3f4e7f714e, Topic = eebus/daenet/command, Payload = {"Topic":null,"Text":"jkljkljlkjljlkjkljljlkjlkjkl"}, QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 21:38:38.353 -05:00 [INF] New connection: ClientId = anonymous95a89d8450, Endpoint = [::1]:50278, Username = null, CleanSession = true
+2021-08-04 21:38:38.371 -05:00 [INF] New subscription: ClientId = anonymous95a89d8450, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=ExactlyOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 21:39:00.270 -05:00 [INF] Message: ClientId = anonymous95a89d8450, Topic = eebus/daenet/command, Payload = {"Topic":null,"Text":"jkhjkhjk"}, QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 21:43:33.842 -05:00 [INF] New connection: ClientId = anonymous67c4a3ba44, Endpoint = [::1]:61278, Username = null, CleanSession = true
+2021-08-04 21:43:34.242 -05:00 [INF] New subscription: ClientId = anonymous67c4a3ba44, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=ExactlyOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 21:43:36.257 -05:00 [INF] New connection: ClientId = anonymous9a6d4d7f76, Endpoint = [::1]:61280, Username = null, CleanSession = true
+2021-08-04 21:43:36.408 -05:00 [INF] New subscription: ClientId = anonymous9a6d4d7f76, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=ExactlyOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 21:44:04.309 -05:00 [INF] New connection: ClientId = anonymous219c8bc205, Endpoint = [::1]:49335, Username = null, CleanSession = true
+2021-08-04 21:44:04.322 -05:00 [INF] New subscription: ClientId = anonymous219c8bc205, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=ExactlyOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 21:44:04.661 -05:00 [INF] Message: ClientId = anonymous219c8bc205, Topic = eebus/daenet/command, Payload = {"Topic":null,"Text":"prueba"}, QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 21:44:44.754 -05:00 [INF] New connection: ClientId = anonymous38bc036fa7, Endpoint = [::1]:58173, Username = null, CleanSession = true
+2021-08-04 21:44:44.768 -05:00 [INF] New subscription: ClientId = anonymous38bc036fa7, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=ExactlyOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 21:44:44.789 -05:00 [INF] Message: ClientId = anonymous38bc036fa7, Topic = eebus/daenet/command, Payload = {"Topic":null,"Text":"hjjkhjkjhkj"}, QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 21:45:17.845 -05:00 [INF] New connection: ClientId = anonymouscbc158b826, Endpoint = [::1]:62176, Username = null, CleanSession = true
+2021-08-04 21:45:18.296 -05:00 [INF] New subscription: ClientId = anonymouscbc158b826, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=ExactlyOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 21:45:20.265 -05:00 [INF] New connection: ClientId = anonymous5ae7e26e8c, Endpoint = [::1]:62178, Username = null, CleanSession = true
+2021-08-04 21:45:20.367 -05:00 [INF] New subscription: ClientId = anonymous5ae7e26e8c, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=ExactlyOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 21:45:24.912 -05:00 [INF] New connection: ClientId = anonymousb4d1476406, Endpoint = [::1]:62179, Username = null, CleanSession = true
+2021-08-04 21:45:24.924 -05:00 [INF] New subscription: ClientId = anonymousb4d1476406, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=ExactlyOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 21:45:25.331 -05:00 [INF] Message: ClientId = anonymousb4d1476406, Topic = eebus/daenet/command, Payload = {"Topic":null,"Text":"hjhjkhkjkhj"}, QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 21:46:57.441 -05:00 [INF] New connection: ClientId = anonymous0ae6d31e66, Endpoint = [::1]:57434, Username = null, CleanSession = true
+2021-08-04 21:46:57.454 -05:00 [INF] New subscription: ClientId = anonymous0ae6d31e66, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=ExactlyOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 21:46:57.481 -05:00 [INF] Message: ClientId = anonymous0ae6d31e66, Topic = eebus/daenet/command, Payload = {"Topic":null,"Text":"kklñkñlkñlkñl"}, QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 21:47:14.813 -05:00 [INF] New connection: ClientId = anonymousd30fb8fc2e, Endpoint = [::1]:57719, Username = null, CleanSession = true
+2021-08-04 21:47:15.051 -05:00 [INF] New subscription: ClientId = anonymousd30fb8fc2e, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=ExactlyOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 21:47:15.970 -05:00 [INF] New connection: ClientId = anonymousfb779306d3, Endpoint = [::1]:57720, Username = null, CleanSession = true
+2021-08-04 21:47:16.073 -05:00 [INF] New subscription: ClientId = anonymousfb779306d3, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=ExactlyOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 21:47:20.447 -05:00 [INF] New connection: ClientId = anonymous3e27620e6c, Endpoint = [::1]:55714, Username = null, CleanSession = true
+2021-08-04 21:47:20.453 -05:00 [INF] New subscription: ClientId = anonymous3e27620e6c, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=ExactlyOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 21:47:20.812 -05:00 [INF] Message: ClientId = anonymous3e27620e6c, Topic = eebus/daenet/command, Payload = {"Topic":null,"Text":"klñkñlkñl"}, QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 21:48:09.065 -05:00 [INF] New connection: ClientId = anonymous2a17a79c67, Endpoint = [::1]:59179, Username = null, CleanSession = true
+2021-08-04 21:48:09.127 -05:00 [INF] New subscription: ClientId = anonymous2a17a79c67, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=ExactlyOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 21:48:09.134 -05:00 [INF] Message: ClientId = anonymous2a17a79c67, Topic = eebus/daenet/command, Payload = {"Topic":null,"Text":"llkjlkjlkj"}, QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 21:51:05.344 -05:00 [INF] New connection: ClientId = anonymous6b1bd332f8, Endpoint = [::1]:60338, Username = null, CleanSession = true
+2021-08-04 21:51:05.653 -05:00 [INF] New subscription: ClientId = anonymous6b1bd332f8, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=ExactlyOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 21:51:06.031 -05:00 [INF] New connection: ClientId = anonymousfb3acb170d, Endpoint = [::1]:60339, Username = null, CleanSession = true
+2021-08-04 21:51:06.127 -05:00 [INF] New subscription: ClientId = anonymousfb3acb170d, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=ExactlyOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 21:51:12.052 -05:00 [INF] New connection: ClientId = anonymousd50f78c1b3, Endpoint = [::1]:60340, Username = null, CleanSession = true
+2021-08-04 21:51:12.062 -05:00 [INF] New subscription: ClientId = anonymousd50f78c1b3, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=ExactlyOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 21:51:12.435 -05:00 [INF] Message: ClientId = anonymousd50f78c1b3, Topic = eebus/daenet/command, Payload = {"Topic":null,"Text":"hjkhkjhkjh"}, QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 21:51:19.654 -05:00 [INF] New subscription: ClientId = anonymous6b1bd332f8, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=ExactlyOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 21:51:35.450 -05:00 [INF] New connection: ClientId = anonymous17c25e7b85, Endpoint = [::1]:50788, Username = null, CleanSession = true
+2021-08-04 21:51:35.459 -05:00 [INF] New subscription: ClientId = anonymous17c25e7b85, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=ExactlyOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 21:51:35.465 -05:00 [INF] Message: ClientId = anonymous17c25e7b85, Topic = eebus/daenet/command, Payload = {"Topic":null,"Text":"hkjhkjhkjhk"}, QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 21:56:08.991 -05:00 [INF] New connection: ClientId = anonymous5da2fd767d, Endpoint = [::1]:61938, Username = null, CleanSession = true
+2021-08-04 21:56:09.500 -05:00 [INF] New subscription: ClientId = anonymous5da2fd767d, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=ExactlyOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 21:56:09.636 -05:00 [INF] New connection: ClientId = anonymousc3c794e1a3, Endpoint = [::1]:61939, Username = null, CleanSession = true
+2021-08-04 21:56:09.836 -05:00 [INF] New subscription: ClientId = anonymousc3c794e1a3, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=ExactlyOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 21:56:10.984 -05:00 [INF] New connection: ClientId = anonymous421188dfe0, Endpoint = [::1]:61940, Username = null, CleanSession = true
+2021-08-04 21:56:11.083 -05:00 [INF] New subscription: ClientId = anonymous421188dfe0, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=ExactlyOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 21:56:38.113 -05:00 [INF] Message: ClientId = anonymous5da2fd767d, Topic = eebus/daenet/command, Payload = "dsfsdfsdf", QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 21:56:43.718 -05:00 [INF] Message: ClientId = anonymous5da2fd767d, Topic = eebus/daenet/command, Payload = "sdfsdfsdfsd", QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 21:56:53.096 -05:00 [INF] Message: ClientId = anonymous5da2fd767d, Topic = eebus/daenet/command, Payload = "sdfsdfsdf", QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 21:57:24.055 -05:00 [INF] New connection: ClientId = anonymous9592a59a43, Endpoint = [::1]:63069, Username = null, CleanSession = true
+2021-08-04 21:57:24.055 -05:00 [INF] New connection: ClientId = anonymous3d4bff825c, Endpoint = [::1]:63070, Username = null, CleanSession = true
+2021-08-04 21:57:24.342 -05:00 [INF] New subscription: ClientId = anonymous3d4bff825c, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=ExactlyOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 21:57:24.373 -05:00 [INF] New subscription: ClientId = anonymous9592a59a43, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=ExactlyOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 21:57:26.443 -05:00 [INF] New connection: ClientId = anonymous63a53800a0, Endpoint = [::1]:63071, Username = null, CleanSession = true
+2021-08-04 21:57:26.511 -05:00 [INF] New subscription: ClientId = anonymous63a53800a0, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=ExactlyOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 21:57:34.922 -05:00 [INF] Message: ClientId = anonymous9592a59a43, Topic = eebus/daenet/command, Payload = "asdasdasdasdasd", QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 21:57:44.808 -05:00 [INF] Message: ClientId = anonymous9592a59a43, Topic = eebus/daenet/command, Payload = "asdasdasdasdasd", QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 22:08:11.067 -05:00 [INF] New connection: ClientId = anonymous4f2eaef761, Endpoint = [::1]:58382, Username = null, CleanSession = true
+2021-08-04 22:08:11.452 -05:00 [INF] New subscription: ClientId = anonymous4f2eaef761, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=ExactlyOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 22:08:11.477 -05:00 [INF] New connection: ClientId = anonymous6f1909e1fa, Endpoint = [::1]:58383, Username = null, CleanSession = true
+2021-08-04 22:08:11.634 -05:00 [INF] New subscription: ClientId = anonymous6f1909e1fa, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=ExactlyOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 22:08:12.910 -05:00 [INF] New connection: ClientId = anonymous3ea3be72da, Endpoint = [::1]:58385, Username = null, CleanSession = true
+2021-08-04 22:08:13.010 -05:00 [INF] New subscription: ClientId = anonymous3ea3be72da, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=ExactlyOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 22:08:17.755 -05:00 [INF] New connection: ClientId = anonymousaec29a5604, Endpoint = [::1]:58705, Username = null, CleanSession = true
+2021-08-04 22:08:17.761 -05:00 [INF] New subscription: ClientId = anonymousaec29a5604, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=ExactlyOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 22:08:18.171 -05:00 [INF] Message: ClientId = anonymousaec29a5604, Topic = eebus/daenet/command, Payload = {"Topic":null,"Text":"klklklklklk"}, QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 22:08:25.700 -05:00 [INF] New connection: ClientId = anonymous6ac5ded5d1, Endpoint = [::1]:65203, Username = null, CleanSession = true
+2021-08-04 22:08:25.708 -05:00 [INF] New subscription: ClientId = anonymous6ac5ded5d1, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=ExactlyOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 22:08:25.715 -05:00 [INF] Message: ClientId = anonymous6ac5ded5d1, Topic = eebus/daenet/command, Payload = {"Topic":null,"Text":"klklkjmlkjkljklj"}, QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 22:08:30.512 -05:00 [INF] New connection: ClientId = anonymous144e5aa344, Endpoint = [::1]:60881, Username = null, CleanSession = true
+2021-08-04 22:08:30.527 -05:00 [INF] New subscription: ClientId = anonymous144e5aa344, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=ExactlyOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 22:08:30.532 -05:00 [INF] Message: ClientId = anonymous144e5aa344, Topic = eebus/daenet/command, Payload = {"Topic":null,"Text":"jlkjlkjlkjkljklj"}, QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 22:10:20.431 -05:00 [INF] New connection: ClientId = anonymousa5494ae9ec, Endpoint = [::1]:49834, Username = null, CleanSession = true
+2021-08-04 22:10:20.431 -05:00 [INF] New connection: ClientId = anonymousb97067c8c3, Endpoint = 127.0.0.1:49833, Username = null, CleanSession = true
+2021-08-04 22:10:21.367 -05:00 [INF] New subscription: ClientId = anonymousa5494ae9ec, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 22:10:21.468 -05:00 [INF] New subscription: ClientId = anonymousb97067c8c3, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 22:10:26.734 -05:00 [INF] New connection: ClientId = anonymous49603770ad, Endpoint = [::1]:49835, Username = null, CleanSession = true
+2021-08-04 22:10:26.831 -05:00 [INF] New subscription: ClientId = anonymous49603770ad, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 22:10:30.616 -05:00 [INF] New connection: ClientId = anonymous10e756ded3, Endpoint = [::1]:49839, Username = null, CleanSession = true
+2021-08-04 22:10:30.627 -05:00 [INF] New subscription: ClientId = anonymous10e756ded3, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 22:10:31.559 -05:00 [INF] Message: ClientId = anonymous10e756ded3, Topic = eebus/daenet/command, Payload = {"Topic":null,"Text":"hjkhjkhkjhkj"}, QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 22:10:48.078 -05:00 [INF] New connection: ClientId = anonymous71b5ff7d46, Endpoint = [::1]:57171, Username = null, CleanSession = true
+2021-08-04 22:10:48.085 -05:00 [INF] New subscription: ClientId = anonymous71b5ff7d46, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 22:10:48.110 -05:00 [INF] Message: ClientId = anonymous71b5ff7d46, Topic = eebus/daenet/command, Payload = {"Topic":null,"Text":"kjkljlkjkljlkjlkj"}, QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 22:19:19.401 -05:00 [INF] New connection: ClientId = anonymous429092ede8, Endpoint = [::1]:62866, Username = null, CleanSession = true
+2021-08-04 22:19:19.401 -05:00 [INF] New connection: ClientId = anonymous620efe6489, Endpoint = [::1]:62867, Username = null, CleanSession = true
+2021-08-04 22:19:19.783 -05:00 [INF] New subscription: ClientId = anonymous620efe6489, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 22:19:19.783 -05:00 [INF] New subscription: ClientId = anonymous429092ede8, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 22:19:39.515 -05:00 [INF] New connection: ClientId = anonymous25b29bce7b, Endpoint = [::1]:62873, Username = null, CleanSession = true
+2021-08-04 22:19:39.616 -05:00 [INF] New subscription: ClientId = anonymous25b29bce7b, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 22:19:39.900 -05:00 [INF] Message: ClientId = anonymous25b29bce7b, Topic = eebus/daenet/command, Payload = {"Topic":null,"Text":"fgdfgdfgdgf"}, QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 22:20:03.123 -05:00 [INF] New connection: ClientId = anonymousdeed3dd3e3, Endpoint = [::1]:55356, Username = null, CleanSession = true
+2021-08-04 22:20:03.140 -05:00 [INF] New subscription: ClientId = anonymousdeed3dd3e3, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 22:20:03.144 -05:00 [INF] Message: ClientId = anonymousdeed3dd3e3, Topic = eebus/daenet/command, Payload = {"Topic":null,"Text":"ghfghfghfhfghfg"}, QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 22:20:15.140 -05:00 [INF] New connection: ClientId = anonymousbefe2e23a5, Endpoint = [::1]:55359, Username = null, CleanSession = true
+2021-08-04 22:20:15.156 -05:00 [INF] New subscription: ClientId = anonymousbefe2e23a5, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 22:20:15.162 -05:00 [INF] Message: ClientId = anonymousbefe2e23a5, Topic = eebus/daenet/command, Payload = {"Topic":null,"Text":"fgdfgdfgdfgdfgdfgdfg"}, QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 22:21:28.237 -05:00 [INF] New connection: ClientId = anonymous3ac585d2e3, Endpoint = [::1]:50013, Username = null, CleanSession = true
+2021-08-04 22:21:28.400 -05:00 [INF] New connection: ClientId = anonymous09716037c1, Endpoint = [::1]:50012, Username = null, CleanSession = true
+2021-08-04 22:21:28.625 -05:00 [INF] New subscription: ClientId = anonymous09716037c1, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 22:21:28.625 -05:00 [INF] New subscription: ClientId = anonymous3ac585d2e3, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 22:21:34.768 -05:00 [INF] New connection: ClientId = anonymous2a9c2a8990, Endpoint = [::1]:50015, Username = null, CleanSession = true
+2021-08-04 22:21:34.861 -05:00 [INF] New subscription: ClientId = anonymous2a9c2a8990, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 22:21:35.222 -05:00 [INF] Message: ClientId = anonymous2a9c2a8990, Topic = eebus/daenet/command, Payload = {"Topic":null,"Text":"klñkñlklñklñk"}, QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 22:21:47.909 -05:00 [INF] New connection: ClientId = anonymousecd0327de0, Endpoint = [::1]:50019, Username = null, CleanSession = true
+2021-08-04 22:21:47.921 -05:00 [INF] New subscription: ClientId = anonymousecd0327de0, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 22:21:47.928 -05:00 [INF] Message: ClientId = anonymousecd0327de0, Topic = eebus/daenet/command, Payload = {"Topic":null,"Text":"klñklñklñklñk"}, QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 22:51:15.689 -05:00 [INF] New connection: ClientId = anonymous65fd1c08ed, Endpoint = [::1]:49370, Username = null, CleanSession = true
+2021-08-04 22:51:16.087 -05:00 [INF] New connection: ClientId = anonymoused01b770a2, Endpoint = [::1]:49369, Username = null, CleanSession = true
+2021-08-04 22:51:16.419 -05:00 [INF] New subscription: ClientId = anonymoused01b770a2, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 22:51:16.419 -05:00 [INF] New subscription: ClientId = anonymous65fd1c08ed, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 22:51:34.960 -05:00 [INF] New connection: ClientId = anonymousa7caeb82be, Endpoint = [::1]:59186, Username = null, CleanSession = true
+2021-08-04 22:51:35.053 -05:00 [INF] New subscription: ClientId = anonymousa7caeb82be, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 22:51:35.353 -05:00 [INF] Message: ClientId = anonymousa7caeb82be, Topic = eebus/daenet/command, Payload = {"Topic":null,"Text":"fsdfsdfsd"}, QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 22:51:40.538 -05:00 [INF] New connection: ClientId = anonymous9e6ea4d503, Endpoint = [::1]:57153, Username = null, CleanSession = true
+2021-08-04 22:51:40.551 -05:00 [INF] New subscription: ClientId = anonymous9e6ea4d503, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 22:51:40.557 -05:00 [INF] Message: ClientId = anonymous9e6ea4d503, Topic = eebus/daenet/command, Payload = {"Topic":null,"Text":"sdfsdfsdfsdfsdf"}, QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 22:57:56.486 -05:00 [INF] New connection: ClientId = anonymous8b8715cc44, Endpoint = [::1]:52633, Username = null, CleanSession = true
+2021-08-04 22:57:56.486 -05:00 [INF] New connection: ClientId = anonymous649faeafbf, Endpoint = [::1]:52632, Username = null, CleanSession = true
+2021-08-04 22:57:57.118 -05:00 [INF] New subscription: ClientId = anonymous649faeafbf, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 22:57:57.118 -05:00 [INF] New subscription: ClientId = anonymous8b8715cc44, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 22:58:06.090 -05:00 [INF] New connection: ClientId = anonymous9e5fc5e783, Endpoint = [::1]:52644, Username = null, CleanSession = true
+2021-08-04 22:58:06.206 -05:00 [INF] New subscription: ClientId = anonymous9e5fc5e783, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 22:58:06.551 -05:00 [INF] Message: ClientId = anonymous9e5fc5e783, Topic = eebus/daenet/command, Payload = {"Topic":null,"Text":"jkljlkjlkj"}, QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 22:58:06.683 -05:00 [INF] New connection: ClientId = anonymous013dd46ad3, Endpoint = [::1]:52645, Username = null, CleanSession = true
+2021-08-04 22:58:06.707 -05:00 [INF] New subscription: ClientId = anonymous013dd46ad3, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 22:58:15.296 -05:00 [INF] New connection: ClientId = anonymous897a6a1cf8, Endpoint = [::1]:52868, Username = null, CleanSession = true
+2021-08-04 22:58:15.304 -05:00 [INF] New subscription: ClientId = anonymous897a6a1cf8, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 22:58:15.308 -05:00 [INF] Message: ClientId = anonymous897a6a1cf8, Topic = eebus/daenet/command, Payload = {"Topic":null,"Text":"lkjkljkljlkjlk"}, QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 22:58:15.334 -05:00 [INF] New connection: ClientId = anonymous51337a1a7e, Endpoint = [::1]:52869, Username = null, CleanSession = true
+2021-08-04 22:58:15.341 -05:00 [INF] New subscription: ClientId = anonymous51337a1a7e, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 22:58:20.666 -05:00 [INF] New connection: ClientId = anonymous577afdda0b, Endpoint = [::1]:52871, Username = null, CleanSession = true
+2021-08-04 22:58:20.680 -05:00 [INF] New subscription: ClientId = anonymous577afdda0b, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 22:58:20.703 -05:00 [INF] Message: ClientId = anonymous577afdda0b, Topic = eebus/daenet/command, Payload = {"Topic":null,"Text":"pwpweoqwieoa"}, QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 22:58:20.752 -05:00 [INF] New connection: ClientId = anonymous2b5dc06863, Endpoint = [::1]:52873, Username = null, CleanSession = true
+2021-08-04 22:58:20.758 -05:00 [INF] New subscription: ClientId = anonymous2b5dc06863, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 23:03:35.072 -05:00 [INF] New connection: ClientId = anonymous9f362c4961, Endpoint = [::1]:50228, Username = null, CleanSession = true
+2021-08-04 23:03:35.350 -05:00 [INF] New subscription: ClientId = anonymous9f362c4961, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 23:03:36.444 -05:00 [INF] New connection: ClientId = anonymousc53f547c48, Endpoint = [::1]:50229, Username = null, CleanSession = true
+2021-08-04 23:03:36.554 -05:00 [INF] New subscription: ClientId = anonymousc53f547c48, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 23:03:43.886 -05:00 [INF] New connection: ClientId = anonymousbfcb7f87b1, Endpoint = [::1]:50231, Username = null, CleanSession = true
+2021-08-04 23:03:43.972 -05:00 [INF] New subscription: ClientId = anonymousbfcb7f87b1, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 23:03:44.297 -05:00 [INF] Message: ClientId = anonymousbfcb7f87b1, Topic = eebus/daenet/command, Payload = {"Topic":null,"Text":"ghgjhgjhgj"}, QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 23:03:53.850 -05:00 [INF] New connection: ClientId = anonymous0909ff54a2, Endpoint = [::1]:61990, Username = null, CleanSession = true
+2021-08-04 23:03:53.858 -05:00 [INF] New subscription: ClientId = anonymous0909ff54a2, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 23:03:53.860 -05:00 [INF] Message: ClientId = anonymous0909ff54a2, Topic = eebus/daenet/command, Payload = {"Topic":null,"Text":"gjgjhgjhgjh"}, QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 23:03:58.314 -05:00 [INF] New connection: ClientId = anonymous72fa99c231, Endpoint = [::1]:61993, Username = null, CleanSession = true
+2021-08-04 23:03:58.326 -05:00 [INF] New subscription: ClientId = anonymous72fa99c231, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 23:03:58.333 -05:00 [INF] Message: ClientId = anonymous72fa99c231, Topic = eebus/daenet/command, Payload = {"Topic":null,"Text":"gjhgjhgjhghjghj"}, QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 23:06:25.863 -05:00 [INF] New connection: ClientId = anonymous219505dcac, Endpoint = [::1]:57301, Username = null, CleanSession = true
+2021-08-04 23:06:25.863 -05:00 [INF] New connection: ClientId = anonymouse451d06eb2, Endpoint = [::1]:57302, Username = null, CleanSession = true
+2021-08-04 23:06:26.192 -05:00 [INF] New subscription: ClientId = anonymous219505dcac, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 23:06:26.192 -05:00 [INF] New subscription: ClientId = anonymouse451d06eb2, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 23:06:36.105 -05:00 [INF] New connection: ClientId = anonymous1d8b434874, Endpoint = [::1]:60402, Username = null, CleanSession = true
+2021-08-04 23:06:36.191 -05:00 [INF] New subscription: ClientId = anonymous1d8b434874, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 23:06:36.495 -05:00 [INF] Message: ClientId = anonymous1d8b434874, Topic = eebus/daenet/command, Payload = {"Topic":null,"Text":"dadasdas"}, QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 23:06:36.558 -05:00 [INF] New connection: ClientId = anonymous38b0a6a87a, Endpoint = [::1]:60403, Username = null, CleanSession = true
+2021-08-04 23:06:36.575 -05:00 [INF] New subscription: ClientId = anonymous38b0a6a87a, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 23:06:42.036 -05:00 [INF] New connection: ClientId = anonymous644d78096e, Endpoint = [::1]:52876, Username = null, CleanSession = true
+2021-08-04 23:06:42.048 -05:00 [INF] New subscription: ClientId = anonymous644d78096e, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 23:06:42.054 -05:00 [INF] Message: ClientId = anonymous644d78096e, Topic = eebus/daenet/command, Payload = {"Topic":null,"Text":"dasdadasdas"}, QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 23:06:49.924 -05:00 [INF] New connection: ClientId = anonymousedb962272e, Endpoint = [::1]:52878, Username = null, CleanSession = true
+2021-08-04 23:06:49.932 -05:00 [INF] New subscription: ClientId = anonymousedb962272e, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 23:06:49.934 -05:00 [INF] Message: ClientId = anonymousedb962272e, Topic = eebus/daenet/command, Payload = {"Topic":null,"Text":"prueba<3"}, QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 23:09:56.151 -05:00 [INF] New connection: ClientId = anonymousa965408ac0, Endpoint = [::1]:53948, Username = null, CleanSession = true
+2021-08-04 23:09:56.151 -05:00 [INF] New connection: ClientId = anonymous080bfdbf97, Endpoint = [::1]:53947, Username = null, CleanSession = true
+2021-08-04 23:09:56.379 -05:00 [INF] New subscription: ClientId = anonymous080bfdbf97, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 23:09:56.394 -05:00 [INF] New subscription: ClientId = anonymousa965408ac0, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 23:10:03.994 -05:00 [INF] New connection: ClientId = anonymousf028c69ef8, Endpoint = [::1]:53951, Username = null, CleanSession = true
+2021-08-04 23:10:04.109 -05:00 [INF] New subscription: ClientId = anonymousf028c69ef8, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 23:10:04.561 -05:00 [INF] Message: ClientId = anonymousf028c69ef8, Topic = eebus/daenet/command, Payload = {"Topic":null,"Text":"hjkhjkhkj"}, QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 23:11:30.264 -05:00 [INF] New connection: ClientId = anonymous89a2dfa6c7, Endpoint = [::1]:50747, Username = null, CleanSession = true
+2021-08-04 23:11:30.570 -05:00 [INF] New subscription: ClientId = anonymous89a2dfa6c7, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 23:11:38.187 -05:00 [INF] New connection: ClientId = anonymous33b17d9ef1, Endpoint = [::1]:50751, Username = null, CleanSession = true
+2021-08-04 23:11:38.266 -05:00 [INF] New subscription: ClientId = anonymous33b17d9ef1, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 23:11:38.569 -05:00 [INF] Message: ClientId = anonymous33b17d9ef1, Topic = eebus/daenet/command, Payload = {"Topic":null,"Text":"dsfsdfsdfsd"}, QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 23:13:50.944 -05:00 [INF] New connection: ClientId = anonymousc51e859191, Endpoint = [::1]:54659, Username = null, CleanSession = true
+2021-08-04 23:13:51.344 -05:00 [INF] New subscription: ClientId = anonymousc51e859191, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 23:14:01.130 -05:00 [INF] New connection: ClientId = anonymous70b47773d9, Endpoint = [::1]:54662, Username = null, CleanSession = true
+2021-08-04 23:14:01.233 -05:00 [INF] New subscription: ClientId = anonymous70b47773d9, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 23:14:01.506 -05:00 [INF] Message: ClientId = anonymous70b47773d9, Topic = eebus/daenet/command, Payload = {"Topic":null,"Text":"fdgdfgdfgdf"}, QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 23:14:11.131 -05:00 [INF] New connection: ClientId = anonymousb236c7a1d3, Endpoint = [::1]:56363, Username = null, CleanSession = true
+2021-08-04 23:14:11.141 -05:00 [INF] New subscription: ClientId = anonymousb236c7a1d3, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 23:14:11.152 -05:00 [INF] Message: ClientId = anonymousb236c7a1d3, Topic = eebus/daenet/command, Payload = {"Topic":null,"Text":"fgdgdfgdf"}, QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 23:15:00.174 -05:00 [INF] New connection: ClientId = anonymousbdeb6a727d, Endpoint = [::1]:56990, Username = null, CleanSession = true
+2021-08-04 23:15:00.187 -05:00 [INF] New connection: ClientId = anonymous38b366ce51, Endpoint = [::1]:56989, Username = null, CleanSession = true
+2021-08-04 23:15:00.773 -05:00 [INF] New subscription: ClientId = anonymousbdeb6a727d, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 23:15:00.842 -05:00 [INF] New subscription: ClientId = anonymous38b366ce51, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 23:15:11.204 -05:00 [INF] New connection: ClientId = anonymouseb22b64159, Endpoint = [::1]:56994, Username = null, CleanSession = true
+2021-08-04 23:15:11.318 -05:00 [INF] New subscription: ClientId = anonymouseb22b64159, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 23:15:11.615 -05:00 [INF] Message: ClientId = anonymouseb22b64159, Topic = eebus/daenet/command, Payload = {"Topic":null,"Text":"sasasad"}, QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 23:15:11.696 -05:00 [INF] New connection: ClientId = anonymouse79acd004d, Endpoint = [::1]:56995, Username = null, CleanSession = true
+2021-08-04 23:15:11.707 -05:00 [INF] New subscription: ClientId = anonymouse79acd004d, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 23:15:18.491 -05:00 [INF] New connection: ClientId = anonymous980482fe3c, Endpoint = [::1]:51952, Username = null, CleanSession = true
+2021-08-04 23:15:18.503 -05:00 [INF] New subscription: ClientId = anonymous980482fe3c, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]
+2021-08-04 23:15:18.506 -05:00 [INF] Message: ClientId = anonymous980482fe3c, Topic = eebus/daenet/command, Payload = {"Topic":null,"Text":"1232"}, QoS = "ExactlyOnce", Retain-Flag = false
+2021-08-04 23:15:18.528 -05:00 [INF] New connection: ClientId = anonymouse3be6b37f9, Endpoint = [::1]:51954, Username = null, CleanSession = true
+2021-08-04 23:15:18.536 -05:00 [INF] New subscription: ClientId = anonymouse3be6b37f9, TopicFilter = TopicFilter: [Topic=eebus/daenet/command] [QualityOfServiceLevel=AtLeastOnce] [NoLocal=] [RetainAsPublished=] [RetainHandling=]

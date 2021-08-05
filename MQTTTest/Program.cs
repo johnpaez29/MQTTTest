@@ -18,25 +18,25 @@ namespace MQTTTest
             string rcvTopic = "eebus/daenet/command";
             string sendTopic = "eebus/daenet/command";
 
-            mqttClient.SubscribeAsync(rcvTopic, MqttQualityOfService.ExactlyOnce);
+            mqttClient.SubscribeAsync(rcvTopic, MqttQualityOfService.AtLeastOnce);
 
-            Task.Run(() =>
-            {
-                while (true)
-                {
-                    Console.ForegroundColor = ConsoleColor.Yellow;
+            //Task.Run(() =>
+            //{
+            //    while (true)
+            //    {
+            //        Console.ForegroundColor = ConsoleColor.Yellow;
 
-                    Console.WriteLine("Enter the text to send.");
+            //        Console.WriteLine("Enter the text to send.");
 
-                    Console.ForegroundColor = ConsoleColor.Cyan;
+            //        Console.ForegroundColor = ConsoleColor.Cyan;
 
-                    var line = System.Console.ReadLine();
+            //        var line = System.Console.ReadLine();
 
-                    var data = Encoding.UTF8.GetBytes(JsonConvert.SerializeObject(line));
+            //        var data = Encoding.UTF8.GetBytes(JsonConvert.SerializeObject(line));
 
-                    mqttClient.PublishAsync(new MqttApplicationMessage(sendTopic, data), MqttQualityOfService.ExactlyOnce).Wait();
-                }
-            });
+            //        mqttClient.PublishAsync(new MqttApplicationMessage(sendTopic, data), MqttQualityOfService.ExactlyOnce).Wait();
+            //    }
+            //});
 
             mqttClient.MessageStream.Subscribe(msg =>
             {

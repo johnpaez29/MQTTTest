@@ -11,7 +11,12 @@ namespace MQTTTest2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+            ProcessMQTT();
+            Console.ReadLine();
+        }
 
+        private static void ProcessMQTT()
+        {
             var mqttClient = MqttClient.CreateAsync("localhost").Result;
 
             var sess = mqttClient.ConnectAsync().Result;
@@ -19,7 +24,7 @@ namespace MQTTTest2
             string rcvTopic = "eebus/daenet/command";
             string sendTopic = "eebus/daenet/command";
 
-            mqttClient.SubscribeAsync(rcvTopic, MqttQualityOfService.ExactlyOnce);
+            mqttClient.SubscribeAsync(rcvTopic, MqttQualityOfService.AtLeastOnce);
 
             Task.Run(() =>
             {
@@ -46,6 +51,8 @@ namespace MQTTTest2
                 Console.WriteLine(Encoding.UTF8.GetString(msg.Payload));
 
                 Console.ResetColor();
+
+                ProcessMQTT();
             });
         }
     }
