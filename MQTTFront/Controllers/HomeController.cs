@@ -26,34 +26,34 @@ namespace MQTTFront.Controllers
         }
 
         [HttpPost]
-        public IActionResult ProcessMessage(Client user)
+        public IActionResult ProcessMessage()
         {
-            client = MqttClient.CreateAsync("localhost").Result;
+            client = MqttClient.CreateAsync("localhost", 1883).Result;
             var sess = client.ConnectAsync().Result;
 
-            string rcvTopic = "eebus/daenet/command";
-            sendTopic = "eebus/daenet/command";
+            string rcvTopic = "eebus/daenet/command1";
+            sendTopic = "eebus/daenet/command2";
 
             client.SubscribeAsync(rcvTopic, MqttQualityOfService.AtLeastOnce);
 
 
             Task.Run(() =>
             {
-                var data = Encoding.UTF8.GetBytes(JsonConvert.SerializeObject(user));
+                var data = Encoding.UTF8.GetBytes("T1");
 
                 client.PublishAsync(new MqttApplicationMessage(sendTopic, data), MqttQualityOfService.ExactlyOnce).Wait();
 
-                client.DisconnectAsync();
             });
+            ProcessMessage();
 
-            //client.MessageStream.Subscribe(msg =>
-            //{
-            //    Console.ForegroundColor = ConsoleColor.Green;
+            client.MessageStream.Subscribe(msg =>
+            {
+                Console.ForegroundColor = ConsoleColor.Green;
 
-            //    Console.WriteLine(Encoding.UTF8.GetString(msg.Payload));
+                Console.WriteLine(Encoding.UTF8.GetString(msg.Payload));
 
-            //    Console.ResetColor();
-            //});
+                Console.ResetColor();
+            });
             return View("Index");
         }
     }

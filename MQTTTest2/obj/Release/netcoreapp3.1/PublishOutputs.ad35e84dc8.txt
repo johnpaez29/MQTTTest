@@ -1,0 +1,10 @@
+C:\Users\jwpaez\source\repos\MQTTTest\MQTTTest2\bin\Release\netcoreapp3.1\publishTest2\MQTTTest2.exe
+C:\Users\jwpaez\source\repos\MQTTTest\MQTTTest2\bin\Release\netcoreapp3.1\publishTest2\MQTTTest2.dll
+C:\Users\jwpaez\source\repos\MQTTTest\MQTTTest2\bin\Release\netcoreapp3.1\publishTest2\MQTTTest2.deps.json
+C:\Users\jwpaez\source\repos\MQTTTest\MQTTTest2\bin\Release\netcoreapp3.1\publishTest2\MQTTTest2.runtimeconfig.json
+C:\Users\jwpaez\source\repos\MQTTTest\MQTTTest2\bin\Release\netcoreapp3.1\publishTest2\MQTTTest2.pdb
+C:\Users\jwpaez\source\repos\MQTTTest\MQTTTest2\bin\Release\netcoreapp3.1\publishTest2\Newtonsoft.Json.dll
+C:\Users\jwpaez\source\repos\MQTTTest\MQTTTest2\bin\Release\netcoreapp3.1\publishTest2\System.Diagnostics.Tracer.dll
+C:\Users\jwpaez\source\repos\MQTTTest\MQTTTest2\bin\Release\netcoreapp3.1\publishTest2\System.Net.Mqtt.dll
+C:\Users\jwpaez\source\repos\MQTTTest\MQTTTest2\bin\Release\netcoreapp3.1\publishTest2\System.Reactive.dll
+C:\Users\jwpaez\source\repos\MQTTTest\MQTTTest2\bin\Release\netcoreapp3.1\publishTest2\System.Reactive.xml

@@ -17,3 +17,11 @@ C:\Users\jwpaez\source\repos\MQTTTest\MQTTTest2\obj\Debug\netcoreapp3.1\MQTTTest
 C:\Users\jwpaez\source\repos\MQTTTest\MQTTTest2\obj\Debug\netcoreapp3.1\MQTTTest2.dll
 C:\Users\jwpaez\source\repos\MQTTTest\MQTTTest2\obj\Debug\netcoreapp3.1\MQTTTest2.pdb
 C:\Users\jwpaez\source\repos\MQTTTest\MQTTTest2\obj\Debug\netcoreapp3.1\MQTTTest2.genruntimeconfig.cache
+C:\Users\jwpaez\source\repos\MQTTTest\MQTTTest2\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\jwpaez\source\repos\MQTTTest\MQTTTest2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\jwpaez\source\repos\MQTTTest\MQTTTest2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\jwpaez\source\repos\MQTTTest\MQTTTest2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\jwpaez\source\repos\MQTTTest\MQTTTest2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jwpaez\source\repos\MQTTTest\MQTTTest2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jwpaez\source\repos\MQTTTest\MQTTTest2\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\jwpaez\source\repos\MQTTTest\MQTTTest2\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
